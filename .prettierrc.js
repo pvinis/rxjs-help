@@ -1,1 +1,1 @@
-.config/.prettierrc.js
+./.config/.prettierrc.js
